@@ -4,4 +4,4 @@
 1. [Guided Tour of Machine Learning in Finance](https://github.com/skielosky/NYU-Tandon-Machine-Learning-and-Reinforcement-Learning-in-Finance/tree/master/01-guided-tour-of-machine-learning-in-finance)
 2. Fundamentals of Machine Learning in Finance
 3. Reinforcement Learning in Finance
-4. Overview of Advanced Methods of Reinforcement Learning in Finance
+[ ] Overview of Advanced Methods of Reinforcement Learning in Finance
