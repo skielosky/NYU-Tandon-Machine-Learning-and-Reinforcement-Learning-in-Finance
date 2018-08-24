@@ -15,7 +15,7 @@ Certificate
 ==============
 
 ![Certificate](ezequiel-aguilar-NYU-Tandon-guided-tour-of-machine-learning-in-finance.png)
-Verify at [coursera.org/verify/8859QRQETPV4](https://www.coursera.org/account/accomplishments/records/ATL4EP6RRVXW)
+Verify at [coursera.org/verify/8859QRQETPV4](https://www.coursera.org/account/accomplishments/certificate/8859QRQETPV4)
 
 Programming Assignment
 =====================
