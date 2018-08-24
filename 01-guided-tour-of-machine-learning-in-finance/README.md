@@ -19,5 +19,7 @@ Certificate
 
 Programming Assignment
 =====================
-1. Euclidean Distance Calculation: Euclidean Distance Calculation. In this assignment you will compute Euclidean distance between elements in n-dimensional space. Each coordinate of a point in n-dimensional space is sampled from Uniform distribution. We will study properties of distribution of Euclidean distances by varying dimensionality of the space.
-2. 
+1. ***Euclidean Distance Calculation:*** In this assignment you will compute Euclidean distance between elements in n-dimensional space. Each coordinate of a point in n-dimensional space is sampled from Uniform distribution. We will study properties of distribution of Euclidean distances by varying dimensionality of the space.
+2. ***Linear Regression Implementation:*** In this assignment you will implement linear regression model using three Python packages: scikit-learn, numpy, and tensorflow. We will be using generated data set for this assignment.
+3. ***Tobit Regression:*** In this assignment you will learn how to implement Tobit Regression model using Tensorflow. You will work with generated data. In addition, you will apply Linear Regression model and Neural Network model to non-linear data to see how Neural Networks help to overcome non-linearities in the data.
+4. ***Course Project:*** In this exercise you will be using FDIC dataset to predict bank defaults. You will use Logistic Regression from scikit-learn model, construct your own Logistic Regression model using Tensorflow, and, finally build and train Neural Network for bank failure prediction
